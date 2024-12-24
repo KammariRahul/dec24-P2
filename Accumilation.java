@@ -1,7 +1,7 @@
 package com.rahul;
 
-public class Accumulation {
-
+public class Accumilation {
+	
 		public static void main(String[] args) {
 			
 			int num = 9999,r,sum=0;
@@ -22,10 +22,6 @@ public class Accumulation {
 		}
 
 	}
-	
-
-       
-    
 
 
 
